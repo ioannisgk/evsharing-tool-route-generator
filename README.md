@@ -1,2 +1,2 @@
 # Route Generator
-Route Generator (Test data tool for EV Sharing Platform)
+Route Generator (Data tool for EV Sharing Platform)
